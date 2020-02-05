@@ -1,0 +1,15 @@
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\HtmlParsing.exe.config
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\HtmlParsing.exe
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\HtmlParsing.pdb
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\HtmlAgilityPack.dll
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\HtmlAgilityPack.xml
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\obj\Debug\HtmlParsing.csprojAssemblyReference.cache
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\obj\Debug\HtmlParsing.csproj.CoreCompileInputs.cache
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\obj\Debug\HtmlParsing.csproj.CopyComplete
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\obj\Debug\HtmlParsing.exe
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\obj\Debug\HtmlParsing.pdb
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\WebDriver.dll
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\WebDriver.Support.dll
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\WebDriver.xml
+C:\Users\FATAL\source\repos\HtmlParsing\HtmlParsing\bin\Debug\WebDriver.Support.xml
