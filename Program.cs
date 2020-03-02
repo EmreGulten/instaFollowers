@@ -153,13 +153,13 @@ namespace HtmlParsing
 
             System.Threading.Thread.Sleep(3000);
 
-            driver.FindElement(By.Name("username")).SendKeys("hande_gecer@hotmail.com");
+            driver.FindElement(By.Name("username")).SendKeys("****");
             System.Threading.Thread.Sleep(2000);
 
 
             System.Threading.Thread.Sleep(1000);
 
-            driver.FindElement(By.Name("password")).SendKeys("886179");
+            driver.FindElement(By.Name("password")).SendKeys("***");
             System.Threading.Thread.Sleep(1000);
             driver.FindElement(By.Name("password")).Submit();
 
